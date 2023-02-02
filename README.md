@@ -1,6 +1,6 @@
 <div style="align-items: center; display:flex; align-items:center;  justify-content:center;"">
     <img
-  src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"
+  src="https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif"
   alt=""
 />
 </div>
