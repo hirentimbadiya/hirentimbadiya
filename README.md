@@ -40,7 +40,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/null/bootstrap.png"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/null/c-programming.png"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/null/css3.png"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/nolan/48/express-js.png"/></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/null/google-firebase-console.png"/></a> <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/null/javascript.png"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/null/nodejs.png"/></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="56" height="48"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/null/tailwindcss.png"/> </a> </p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,java,git,c,github,instagram,jquery,linkedin,materialui,nodejs,redux,replit,stackoverflow,tailwind,vscode,vite,html,css,bootstrap,firebase,express&perline=11" />
+  </a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hirentimbadiya&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="hirentimbadiya" /></p>
 
