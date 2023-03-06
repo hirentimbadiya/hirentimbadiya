@@ -15,11 +15,11 @@
 <p align="left"> <a href="https://twitter.com/heyhiru" target="blank"><img src="https://img.shields.io/twitter/follow/heyhiru?logo=twitter&style=for-the-badge" alt="heyhiru" /></a> </p>
 
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently working on **Backend Development and Web 3**
 
-- 🌱 I’m currently learning **Backend Development and React.js**
+- 🌱 I’m currently learning **Backend Development and Solidity**
 
-- 👯 I’m looking to collaborate on **React.js projects**
+- 👯 I’m looking to collaborate on **Heckathons**
 
 - 🤝 I’m looking for help with **Opensource Contributions**
 
