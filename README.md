@@ -9,9 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirentimbadiya&label=Profile%20views&color=0e75b6&style=flat" alt="hirentimbadiya" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hirentimbadiya&theme=darkhub)](https://github.com/hirentimbadiya/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hirentimbadiya&theme=juicyfresh)](https://github.com/hirentimbadiya/github-profile-trophy)
+
 
 <p align="left"> <a href="https://twitter.com/heyhiru" target="blank"><img src="https://img.shields.io/twitter/follow/heyhiru?logo=twitter&style=for-the-badge" alt="heyhiru" /></a> </p>
+
 
 - 🔭 I’m currently working on **Backend Development**
 
