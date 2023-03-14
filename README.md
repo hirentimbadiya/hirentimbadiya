@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Hiren Timbadiya</h1>
 <h3 align="center">A passionate Developer and Programmer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hirentimbadiya&label=Profile%20views&color=0e75b6&style=flat" alt="hirentimbadiya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hirentimbadiya&label=Profile%20views&color=0e75b6&style=flat" width="145px" alt="hirentimbadiya" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hirentimbadiya&theme=radical&margin-w=20&margin-h=15&no-frame=true)](https://github.com/hirentimbadiya/github-profile-trophy)
 
