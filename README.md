@@ -1,8 +1,4 @@
 <div style="align-items: center; display:flex; align-items:center;  justify-content:center;"">
-    <img
-  src="https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif"
-  alt=""
-/>
 </div>
 <h1 align="center">Hi 👋, I'm Hiren Timbadiya</h1>
 <h3 align="center">A passionate Developer and Programmer from India.</h3>
