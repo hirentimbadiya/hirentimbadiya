@@ -48,4 +48,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hirentimbadiya&theme=chartreuse-dark&show_icons=true" alt="hirentimbadiya" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=hirentimbadiya&theme=outrun&currStreakNum=red&fire=red" alt="hirentimbadiya" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=hirentimbadiya&theme=chartreuse-dark&currStreakNum=red&fire=red" alt="hirentimbadiya" /></p>
