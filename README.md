@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/hirentimbadiya/hirentimbadiya/master/name.svg" alt="Marton Lederer" />
+</h1>
 <div style="align-items: center; display:flex; align-items:center;  justify-content:center;"">
 </div>
 <h1 align="center">Hi 👋, I'm Hiren Timbadiya</h1>
