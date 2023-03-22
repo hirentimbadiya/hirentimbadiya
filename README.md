@@ -1,9 +1,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/hirentimbadiya/hirentimbadiya/master/name.svg" alt="Marton Lederer" />
 </h1>
-<div style="align-items: center; display:flex; align-items:center;  justify-content:center;"">
-</div>
-<h1 align="center">Hi 👋, I'm Hiren Timbadiya</h1>
+<h1 align="center">Hi 👋,  I'm Hiren Timbadiya</h1>
 <h3 align="center">A passionate Developer and Programmer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirentimbadiya&label=Profile%20views&color=0e75b6&style=flat" width="145px" alt="hirentimbadiya" /> </p>
