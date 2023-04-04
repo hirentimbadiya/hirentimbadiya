@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Backend Development and Solidity**
 
-- 👯 I’m looking to collaborate on **Heckathons**
+- 👯 I’m looking to collaborate on **Heckathons and Open Source Contributions**
 
 - 🤝 I’m looking for help with **Opensource Contributions**
 
@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **hirentimbadiya74@gmail.com**
 
-- ⚡ Fun fact **I think I Love Cricket❤**
+- ⚡ Fun fact **I think I am very good Chef👨🏻‍🍳 & can Cook Gujarati🍛 and SouthIndian🍲 Dishes with some Italian🍕 Cuisines as well.❤**
 
 
 <h3 align="left">Connect with me:</h3>
