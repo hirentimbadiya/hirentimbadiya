@@ -48,5 +48,3 @@
 <p><img align="left" src="https://github-readme-stats-phi-rouge-46.vercel.app/api/top-langs?username=hirentimbadiya&hide=html&theme=codeSTACKr&show_icons=true&locale=en&layout=compact&title_color=FFBF00" alt="hirentimbadiya" /></p>
 
 <p><img align="center" src="https://github-readme-stats-phi-rouge-46.vercel.app/api?username=hirentimbadiya&theme=ocean_dark&show_icons=true&ring_color=ff0000&title_color=FFBF00" alt="hirentimbadiya"/></p>
-
-<p><img align="center" src="https://streak-stats.demolab.com/?user=hirentimbadiya&theme=neon-dark&currStreakNum=00ff00&fire=orange&sideLabels=green&sideNums=00ff00" alt="hirentimbadiya" /></p>
