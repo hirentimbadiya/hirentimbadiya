@@ -41,7 +41,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,java,git,c,github,instagram,jquery,linkedin,materialui,nodejs,redux,replit,stackoverflow,tailwind,vscode,vite,html,css,bootstrap,firebase,express&perline=11" />
+    <img src="https://skillicons.dev/icons?i=react,js,java,git,c,github,instagram,jquery,linkedin,materialui,nodejs,redux,replit,stackoverflow,tailwind,vscode,vite,html,css,bootstrap,firebase,express,gatsby,mongodb,nextjs,sass,solidity,ts,vercel&perline=10" />
   </a>
 </p>
 
