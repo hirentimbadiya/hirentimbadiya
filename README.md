@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/hirentimbadiya/hirentimbadiya/master/name.svg" alt="Hiren Timbadiya" />
 </h1>
 <h1 align="center">Hi 👋,  I'm Hiren Timbadiya</h1>
-<h3 align="center">A Passionate Developer and Programmer from India.</h3>
+<h3 align="center">An Inquisitive Developer and Programmer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirentimbadiya&label=Profile%20views&color=0e75b6&style=flat" width="145px" alt="hirentimbadiya" /> </p>
 
@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://twitter.com/heyhiru" target="blank"><img src="https://img.shields.io/twitter/follow/heyhiru?logo=twitter&style=for-the-badge" alt="heyhiru" /></a> </p>
 
 
-- 🔭 I’m currently working on **Backend Development and Web 3**
+- 🔭 I’m currently working on **Backend Development and DevOps Technologies**
 
 - 🌱 I’m currently learning **Backend Development and Solidity**
 
@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **hirentimbadiya74@gmail.com**
 
-- ⚡ Fun fact **I think I am very good Chef👨🏻‍🍳 & can Cook Gujarati🍛 and SouthIndian🍲 Dishes with some Italian🍕 Cuisines as well.❤**
+- ⚡ Fun fact **I think I am very good Chef👨🏻‍🍳 & can Cook Gujarati🍛 and SouthIndian🍲 Dishes as well.❤**
 
 
 <h3 align="left">Connect with me:</h3>
