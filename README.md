@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Backend Development and DevOps Technologies**
 
-- 🌱 I’m currently learning **Backend Development and Solidity**
+- 🌱 I’m currently learning **Backend Development, Golang, Gatsby.JS, Kubernaes**
 
 - 👯 I’m looking to collaborate on **Heckathons and Open Source Contributions**
 
