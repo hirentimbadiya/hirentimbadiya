@@ -14,13 +14,13 @@
 
 - 🔭 I’m currently working on **Backend Development and DevOps Technologies**
 
-- 🌱 I’m currently learning **Backend Development, Golang, Gatsby.JS, Kubernaes**
+- 🌱 I’m currently learning **Backend Development with Golang, Gatsby.JS, Kubernaes**
 
 - 👯 I’m looking to collaborate on **Heckathons and Open Source Contributions**
 
 - 🤝 I’m looking for help with **Opensource Contributions**
 
-- 💬 Ask me about **Javascript , React.js , Java , Data Structures and Algorithms**
+- 💬 Ask me about **Javascript , React.js , Java, SQL, OOP & Data Structures and Algorithms**
 
 - 📫 How to reach me **hirentimbadiya74@gmail.com**
 
@@ -41,7 +41,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,java,git,c,github,instagram,jquery,linkedin,materialui,nodejs,redux,replit,stackoverflow,tailwind,vscode,vite,html,css,bootstrap,firebase,express,gatsby,mongodb,nextjs,sass,solidity,ts,vercel&perline=10" />
+    <img src="https://skillicons.dev/icons?i=react,js,java,git,c,github,jquery,php,materialui,redux,replit,wordpress,tailwind,vscode,vite,html,css,bootstrap,firebase,devto,gatsby,nextjs,sass,md,ts,vercel,azure,docker,go,linkedin,twitter,stackoverflow,instagram&perline=11" />
   </a>
 </p>
 
