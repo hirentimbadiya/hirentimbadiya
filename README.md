@@ -11,22 +11,6 @@
 
 <p align="left"> <a href="https://twitter.com/heyhiru" target="blank"><img src="https://img.shields.io/twitter/follow/heyhiru?logo=twitter&style=for-the-badge" alt="heyhiru" /></a> </p>
 
-
-- 🔭 I’m currently working on **Backend Development and DevOps Technologies**
-
-- 🌱 I’m currently learning **Backend Development with Golang, Gatsby.JS, Kubernaes**
-
-- 👯 I’m looking to collaborate on **Heckathons and Open Source Contributions**
-
-- 🤝 I’m looking for help with **Opensource Contributions**
-
-- 💬 Ask me about **Javascript , React.js , Java, SQL, OOP & Data Structures and Algorithms**
-
-- 📫 How to reach me **hirentimbadiya74@gmail.com**
-
-- ⚡ Fun fact **I think I am very good Chef👨🏻‍🍳 & can Cook Gujarati🍛 and SouthIndian🍲 Dishes as well.❤**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/hirentimbadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hirentimbadiya" height="30" width="40" /></a>
