@@ -26,7 +26,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,java,git,c,github,jquery,materialui,replit,tailwind,vscode,vite,html,css,firebase,devto,nextjs,sass,md,ts,vercel,azure,docker,go&perline=11" />
+    <img src="https://skillicons.dev/icons?i=react,js,java,git,c,github,jquery,materialui,replit,tailwind,vscode,vite,html,css,firebase,devto,nextjs,sass,md,ts,vercel,azure,docker,go&perline=12" />
   </a>
 </p>
 
